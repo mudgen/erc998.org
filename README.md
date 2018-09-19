@@ -8,6 +8,10 @@ The official ERC-998 standard is at this link: [EIP-998](https://eips.ethereum.o
 
 # Articles About ERC-998
 
+[Introducing Crypto Composables](https://medium.com/coinmonks/introducing-crypto-composables-ee5701fde217)
+
+[Crypto Composables — Building Blocks and Applications](https://medium.com/coinmonks/crypto-composables-building-blocks-and-applications-65902709298c)
+
 [ERC-998 and the Future of Blockchain Game Assets](https://medium.com/giglabs/erc-998-and-the-future-of-blockchain-game-assets-9fd1063126cf)
 
 [ERC-998, The New Token On The Block](https://medium.com/the-notice-board/erc-998-the-new-token-on-the-block-f3f6cbebdffc)
